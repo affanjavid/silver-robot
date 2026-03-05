@@ -1,15 +1,15 @@
 #Requires -Version 5.1
 <#
 ================================================================================
-  Veeam Log Viewer  --  Native Windows WPF GUI
+  Silver Robot  --  Silver Robot -- Veeam Log Viewer  --  Native Windows WPF GUI
   Version : 2.1
-  Author  : (your name / team)
+  Author  : Affan
   Date    : 2026-03-05
 ================================================================================
 
 MIT License
 
-Copyright (c) 2026 (Affan Javid / affan.info)
+Copyright (c) 2026 Affan | https://affan.info
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -124,7 +124,7 @@ SOFTWARE.
 ================================================================================
 
 .SYNOPSIS
-    Veeam Log Viewer -- Native Windows WPF GUI
+    Silver Robot -- Veeam Log Viewer -- Native Windows WPF GUI
 
 .DESCRIPTION
     Searches C:\ProgramData\Veeam\Backup (and \Rescan subfolder) for logs
@@ -169,7 +169,7 @@ $LogExts    = @('.log','.txt','.xml')
 <Window
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    Title="Veeam Log Viewer"
+    Title="Silver Robot -- Veeam Log Viewer"
     Height="780" Width="1280" MinHeight="500" MinWidth="800"
     Background="#1A1D23" FontFamily="Consolas" FontSize="12"
     WindowStartupLocation="CenterScreen">
