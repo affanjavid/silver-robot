@@ -17,8 +17,8 @@ A native **Windows WPF GUI** for browsing and tailing Veeam Backup & Replication
 |  FOLDERS         |  LOG FILES         |  LOG CONTENT                           |
 |                  |                    |                                        |
 |  > Rescan        |  rescan.log        |  [INFO]  Starting rescan of host...    |
-|    10.0.4.19     |    42 KB  5m ago   |  [INFO]  Connecting to 10.0.4.19...    |
-|    10.0.7.24     |  rescan_prev.log   |  [WARN]  Retrying connection...        |
+|    10.11.2.19     |    42 KB  5m ago   |  [INFO]  Connecting to 10.0.4.19...    |
+|    10.11.2.74     |  rescan_prev.log   |  [WARN]  Retrying connection...        |
 |    AD            |    18 KB  2h ago   |  [ERROR] Host unreachable              |
 |                  |                    |  [OK]    Rescan completed              |
 |  > Backup        |                    |                                        |
